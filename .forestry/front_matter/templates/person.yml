@@ -34,3 +34,9 @@ fields:
   type: text
   hidden: true
   default: person
+- type: textarea
+  config:
+    wysiwyg: true
+  label: wysi test
+  name: wysi_test
+  description: test
